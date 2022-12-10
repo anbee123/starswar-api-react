@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1> STARS WAR STARSHIPS</h1>
+      <h2> STARS WAR STARSHIPS</h2>
       {starships}
     </div>
   );
