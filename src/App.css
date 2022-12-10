@@ -2,23 +2,37 @@
 
 .App {
   text-align: center;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  background-color: rgb(255, 234, 242);
 
 }
 
 .card {
-  
+  background-color: rgb(241, 212, 237);
+  display: inline-flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
   width: 100px;
-  border: 5px solid rgb(187, 140, 176);
+  height: 100px;
+  border: 3px solid rgb(207, 129, 189);
   padding: 50px;
-  margin: 20px;
+  margin: 15px;
+
 }
 h2 {
+  
   background-color: rgb(185, 109, 170);
 padding: 0;
 margin: auto;
 height: 50px;
 font-family: 'Mochiy Pop P One', sans-serif;
 
+}
+
+h3 {
+  font-family:'Mochiy Pop P One', sans-serif ;
+  align-items: center;
 }
 
 
