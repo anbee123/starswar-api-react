@@ -4,27 +4,33 @@
   text-align: center;
   font-family: 'Mochiy Pop P One', sans-serif;
   background-color: rgb(255, 234, 242);
+  align-items: center;
+
 
 }
 
 .card {
   background-color: rgb(241, 212, 237);
+  color: rgb(117, 56, 97);
   display: inline-flex;
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: space-between;
-  width: 100px;
-  height: 100px;
+  width: 85px;
+  height: 85px;
   border: 3px solid rgb(207, 129, 189);
   padding: 50px;
   margin: 15px;
+
 
 }
 h2 {
   
   background-color: rgb(185, 109, 170);
+  color:rgb(255, 234, 242);
 padding: 0;
-margin: auto;
+margin: 0;
+margin-bottom: 50px;
 height: 50px;
 font-family: 'Mochiy Pop P One', sans-serif;
 
